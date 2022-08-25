@@ -1,0 +1,12 @@
+C:\Users\ПК-82581881\source\repos\ThrowingFishingLure\ThrowingFishingLure\bin\Debug\ThrowingFishingLure.exe.config
+C:\Users\ПК-82581881\source\repos\ThrowingFishingLure\ThrowingFishingLure\bin\Debug\ThrowingFishingLure.exe
+C:\Users\ПК-82581881\source\repos\ThrowingFishingLure\ThrowingFishingLure\bin\Debug\ThrowingFishingLure.pdb
+C:\Users\ПК-82581881\source\repos\ThrowingFishingLure\ThrowingFishingLure\obj\Debug\ThrowingFishingLure.csprojAssemblyReference.cache
+C:\Users\ПК-82581881\source\repos\ThrowingFishingLure\ThrowingFishingLure\obj\Debug\ThrowingFishingLure.Properties.Resources.resources
+C:\Users\ПК-82581881\source\repos\ThrowingFishingLure\ThrowingFishingLure\obj\Debug\ThrowingFishingLure.csproj.GenerateResource.cache
+C:\Users\ПК-82581881\source\repos\ThrowingFishingLure\ThrowingFishingLure\obj\Debug\ThrowingFishingLure.csproj.CoreCompileInputs.cache
+C:\Users\ПК-82581881\source\repos\ThrowingFishingLure\ThrowingFishingLure\obj\Debug\ThrowingFishingLure.exe
+C:\Users\ПК-82581881\source\repos\ThrowingFishingLure\ThrowingFishingLure\obj\Debug\ThrowingFishingLure.pdb
+C:\Users\ПК-82581881\source\repos\ThrowingFishingLure\ThrowingFishingLure\obj\Debug\ThrowingFishingLure.Form1.resources
+C:\Users\ПК-82581881\source\repos\ThrowingFishingLure\ThrowingFishingLure\obj\Debug\ThrowingFishingLure.DisplayWindow.resources
+C:\Users\ПК-82581881\source\repos\ThrowingFishingLure\ThrowingFishingLure\obj\Debug\ThrowingFishingLure.SettingsWindow.resources
